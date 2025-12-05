@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/assignment-portfolio/static/css/main.eee4b5ba.css",
+    "main.js": "/assignment-portfolio/static/js/main.82b8edf3.js",
+    "static/js/453.117b0875.chunk.js": "/assignment-portfolio/static/js/453.117b0875.chunk.js",
+    "static/media/hero_banner_image.png": "/assignment-portfolio/static/media/hero_banner_image.497cbf59a1702c3d7b94.png",
+    "static/media/tools.png": "/assignment-portfolio/static/media/tools.204f298097767d3f7a6a.png",
+    "static/media/Aboutpage_image.png": "/assignment-portfolio/static/media/Aboutpage_image.1310b3432b0745993efb.png",
+    "static/media/frontend.jpg": "/assignment-portfolio/static/media/frontend.4e55a49d397d7248d23b.jpg",
+    "static/media/backend.jpg": "/assignment-portfolio/static/media/backend.c49589e476b23b0ae988.jpg",
+    "static/media/database.jpg": "/assignment-portfolio/static/media/database.40787bd7e7c589874c8d.jpg",
+    "static/media/Experience1.jpg": "/assignment-portfolio/static/media/Experience1.ccf493d4df4e2d353101.jpg",
+    "static/media/project1.jpg": "/assignment-portfolio/static/media/project1.6c0da888e8233f4eb11b.jpg",
+    "static/media/project2.jpg": "/assignment-portfolio/static/media/project2.39f41febd5c0fe13a75f.jpg",
+    "static/media/Experience2.jpg": "/assignment-portfolio/static/media/Experience2.bbf8a2903da61278aca7.jpg",
+    "static/media/testimonial1.jpg": "/assignment-portfolio/static/media/testimonial1.b58a382fe3770c83d08d.jpg",
+    "static/media/testimonial2.jpg": "/assignment-portfolio/static/media/testimonial2.08618c0f8f551e083bf7.jpg",
+    "static/media/instagram.svg": "/assignment-portfolio/static/media/instagram.0dd482fa842bd7851f54ff91a01be94a.svg",
+    "static/media/linkedin.svg": "/assignment-portfolio/static/media/linkedin.44906b3d6741f28a922941668a2ed244.svg",
+    "static/media/internet.svg": "/assignment-portfolio/static/media/internet.632382878cf41558871fd0c0e194fcb8.svg",
+    "static/media/pinterest.svg": "/assignment-portfolio/static/media/pinterest.455fa1e59d229e0b70090367a19ad507.svg",
+    "static/media/phone.svg": "/assignment-portfolio/static/media/phone.9c4eb61de8779d296ec76e6662aafe42.svg",
+    "index.html": "/assignment-portfolio/index.html",
+    "static/media/mail.svg": "/assignment-portfolio/static/media/mail.a93a75b8238d3a69498487db042ec01f.svg",
+    "static/media/facebook.svg": "/assignment-portfolio/static/media/facebook.a1fbd953fcb2d13f1c69dab85106d147.svg",
+    "static/media/burger.svg": "/assignment-portfolio/static/media/burger.fc12fbd678bea2ce4ec9524cbe12a170.svg",
+    "main.eee4b5ba.css.map": "/assignment-portfolio/static/css/main.eee4b5ba.css.map",
+    "main.82b8edf3.js.map": "/assignment-portfolio/static/js/main.82b8edf3.js.map",
+    "453.117b0875.chunk.js.map": "/assignment-portfolio/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee4b5ba.css",
+    "static/js/main.82b8edf3.js"
+  ]
+}
