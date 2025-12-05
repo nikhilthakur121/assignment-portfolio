@@ -1,0 +1,57 @@
+
+.Homepage-hero{
+    margin-top: 5rem;
+    padding:64px;
+    width:50vw ;
+
+}
+
+.Homepage-hero h3{
+    font-family: "Source Code Pro", monospace;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.Homepage-hero h2{
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.Homepage-hero p{
+    font-family: "Source Code Pro", monospace;
+}
+
+.Homepage-btn{
+    display: flex;
+    gap: 2rem;
+    padding-top: 1.5rem;
+}
+
+.Homepage-btn-left{
+    color: white;
+    font-size: 14px;
+    padding: 6px 18px;
+    border-radius: 5px;
+    justify-content: flex-start;
+    background-color: #014562;
+}
+
+.Homepage-btn-left:hover{
+    background-color: white;
+    color: #014562;
+    font-weight: 500;
+}
+
+.Homepage-btn-right{
+    color: #014562;
+     font-size: 14px;
+    padding: 6px 18px;
+    border-radius: 5px;
+    font-weight: 500;
+    background-color: white;
+}
+
+.Homepage-btn-right:hover{
+    background-color: #014562;
+    color: white;
+}

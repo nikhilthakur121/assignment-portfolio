@@ -1,0 +1,149 @@
+* {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+body {
+  background: #e8e8e8;
+}
+
+.Navbar-container * {
+  background: transparent;
+}
+.Navbar-container {
+  color: black;
+  padding-top: 2rem;
+  width: 90vw;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  gap: 45px;
+}
+
+.Navbar-links {
+  font-weight: 500;
+  font-size: 15px;
+  display: flex;
+  gap: 35px;
+  list-style: none;
+  align-items: center;
+  z-index: 1;
+  background-color: transparent;
+  border-bottom: 1px solid black;
+}
+
+.left_nav {
+  text-decoration: none;
+  color: #000;
+  border: none;
+  background-color: transparent;
+}
+
+.left_nav:hover {
+  color: blue;
+}
+
+.Navbar-container p {
+  font-size: 1.3rem;
+  font-weight: 600;
+  align-self: center;
+}
+
+.button {
+  color: #ffffff;
+  background: #000;
+  padding: 8px 16px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.Navbar-container button:hover {
+  color: #000;
+  background: #ffffff;
+  font-weight: 600;
+}
+
+.right_nav {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.right_nav:hover {
+  color: black;
+}
+
+@media (max-width: 1000px) {
+  .Navbar-links {
+    gap: 18px;
+  }
+}
+
+@media (max-width: 768px) {
+  .Navbar-container {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .Navbar-links {
+    justify-content: center;
+    border-bottom: none;
+  }
+
+  .left_nav,
+  .right_nav {
+    font-size: 14px;
+  }
+
+  .button {
+    font-size: 14px;
+    padding: 6px 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .Navbar-links {
+    gap: 12px;
+  }
+
+  .left_nav,
+  .right_nav {
+    font-size: 13px;
+  }
+
+  .button {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 390px) {
+  .Navbar-container {
+    flex-direction: column;
+    text-align: center;
+    gap: 12px;
+    padding: 1rem 0;
+  }
+
+  .Navbar-container p {
+    font-size: 1.3rem;
+  }
+
+  .Navbar-links {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .left_nav,
+  .right_nav {
+    font-size: 12px;
+    padding: 4px 0;
+  }
+
+  .button {
+    font-size: 12px;
+    padding: 6px 10px;
+  }
+}

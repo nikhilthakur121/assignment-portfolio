@@ -1,0 +1,59 @@
+.projects_section {
+  align-items: center;
+  padding: 20px 80px 3px 80px;
+}
+
+.projects_section h2 {
+  text-align: center;
+  padding-bottom: 3rem;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+.projects1,
+.projects2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 2rem;
+}
+
+.project1-left img,
+.project2-right img {
+  width: 500px;
+  height: 300px;
+  border-radius: 15px;
+}
+
+.project2-left h4,
+.project1-right h4 {
+  font-size: 19px;
+  font-weight: 500;
+  margin-bottom: 1.2rem;
+}
+
+.project2-left p,
+.project1-right p {
+  width: 400px;
+  font-family: "Source Code Pro", monospace;
+}
+
+@media (max-width: 950px) {
+  .project2-left {
+    margin-top: 2rem;
+  }
+
+  .projects1,
+  .projects2 {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 1100px) {
+  .project1-left img,
+  .project2-right img {
+    width: 400px;
+    height: 250px;
+  }
+}
