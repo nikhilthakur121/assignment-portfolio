@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/assignment-portfolio/static/css/main.eee4b5ba.css",
+    "main.css": "/assignment-portfolio/static/css/main.7450552a.css",
     "main.js": "/assignment-portfolio/static/js/main.82b8edf3.js",
     "static/js/453.117b0875.chunk.js": "/assignment-portfolio/static/js/453.117b0875.chunk.js",
     "static/media/hero_banner_image.png": "/assignment-portfolio/static/media/hero_banner_image.497cbf59a1702c3d7b94.png",
@@ -24,12 +24,12 @@
     "static/media/mail.svg": "/assignment-portfolio/static/media/mail.a93a75b8238d3a69498487db042ec01f.svg",
     "static/media/facebook.svg": "/assignment-portfolio/static/media/facebook.a1fbd953fcb2d13f1c69dab85106d147.svg",
     "static/media/burger.svg": "/assignment-portfolio/static/media/burger.fc12fbd678bea2ce4ec9524cbe12a170.svg",
-    "main.eee4b5ba.css.map": "/assignment-portfolio/static/css/main.eee4b5ba.css.map",
+    "main.7450552a.css.map": "/assignment-portfolio/static/css/main.7450552a.css.map",
     "main.82b8edf3.js.map": "/assignment-portfolio/static/js/main.82b8edf3.js.map",
     "453.117b0875.chunk.js.map": "/assignment-portfolio/static/js/453.117b0875.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eee4b5ba.css",
+    "static/css/main.7450552a.css",
     "static/js/main.82b8edf3.js"
   ]
 }
